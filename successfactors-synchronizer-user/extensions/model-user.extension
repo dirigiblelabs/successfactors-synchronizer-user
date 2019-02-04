@@ -1,0 +1,5 @@
+{
+	"module": "successfactors-synchronizer-user/models/UserModel.js",
+	"extensionPoint": "successfactors-entity-models",
+	"description": "User Entity Model"
+}
