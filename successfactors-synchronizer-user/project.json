@@ -1,1 +1,14 @@
-{"guid":"successfactors-synchronizer-user","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/successfactors-synchronizer-user.git"}}
+{
+	"guid": "successfactors-synchronizer-user",
+	"repository": {
+		"type": "git",
+		"branch": "master",
+		"url": "https://github.com/dirigiblelabs/successfactors-synchronizer-user.git"
+	},
+	"dependencies": [{
+		"guid": "successfactors-synchronizer",
+		"type": "git",
+		"url": "https://github.com/dirigiblelabs/successfactors-synchronizer.git",
+		"branch": "master"
+	}]
+}
