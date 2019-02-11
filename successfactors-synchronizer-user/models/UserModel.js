@@ -19,5 +19,7 @@ exports.getSelectedProperties = function() {
 		name: "addressLine1"
 	}, {
 		name: "city"
+	}, {
+		name: "country"
 	}];
 };
