@@ -4,3 +4,9 @@
 
 ### Dependencies:
 - [successfactors-synchronizer](https://github.com/dirigiblelabs/successfactors-synchronizer)
+
+### Required Environment Variables:
+ - SUCCESSFACTORS_HOST
+ - SUCCESSFACTORS_COMPANY
+ - SUCCESSFACTORS_USER
+ - SUCCESSFACTORS_PASSWORD
